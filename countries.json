@@ -1,0 +1,41 @@
+// [
+//     {
+        
+//         "name": "Lebanon",
+//     "currency": "LBP"
+    
+//     },
+//     {
+//         "name": "Saudi",
+//         "currency": "SAR"
+//     }
+// ]
+
+
+// countries[1].currency the output is SAR
+// ism il file [array ayya number t3u w bibalshu mn il 0 so 1 heyye teni wi7de].lshe lmnna ye
+
+
+{
+    "countries_name": [
+
+        {
+        
+            "name": "Lebanon",
+        "currency": "LBP"
+        
+        },
+        {
+            "name": "Saudi",
+            "currency": "SAR"
+        }
+
+
+    ]}
+
+// lfar2 ben hawn w faw2 ino hawn 3ayatna lal object faw23ayatna lal file(countries)
+    // countries_name[1].currency the output is SAR
+
+    
+
+    
